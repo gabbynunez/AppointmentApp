@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { ContactForm } from '/Users/gaby/Desktop/ProgrammingStuff/react_challenge_start 3/src/components/contactForm/ContactForm.js';
+import { ContactForm } from '../../components/contactForm/ContactForm.js';
 import { TileList } from '../../components/tileList/TileList.js';
 
 export const ContactsPage = ({contacts, addContact}) => {
